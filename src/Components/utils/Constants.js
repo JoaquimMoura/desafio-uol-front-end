@@ -1,1 +1,1 @@
-export const CRIENTE_API_BASE_URL = 'http://localhost:8080/im-day';
+export const CRIENTE_API_BASE_URL = 'https://uol-service.herokuapp.com/';
